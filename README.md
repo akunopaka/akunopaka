@@ -1,9 +1,9 @@
 <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Full Stack Web Developer</h3>
 
 <hr>
-<h4>🔭  I’m currently working with ...</h4>
+<h4>🔭 I have currently been working or have had experience in the past with ...</h4>
 <h5>Programing Languages: <img src="https://media.giphy.com/media/ZECV5BL5Y6aM1M4Szj/giphy.gif" width="50"></h5>
-<p><img src="https://img.shields.io/badge/Php-4F5B93?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
+<p><img src="https://img.shields.io/badge/Php-4F5B93?style=for-the-badge&logoWidth=20&logo=php&logoColor=white" title="php5.6 php7 php8" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -14,56 +14,52 @@
    <img src="https://img.shields.io/badge/laravel-C14333.svg?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/symfony-1f2937.svg?style=for-the-badge&logo=symfony&logoColor=white" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/WordPress-117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />&nbsp;&nbsp;
-  
 </p>     
 <p><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;
-   <img src="https://img.shields.io/badge/tailwindcss-0EA5E9.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/tailwindcss-0EA5E9.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />&nbsp;
    <img src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/Less-1d365d?&style=for-the-badge&logo=Less&logoColor=white" />&nbsp;&nbsp;
 </p>
 <p>
-   <img src="https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp;
+   <img src="https://img.shields.io/badge/postgres-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/redis-DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />&nbsp;&nbsp;
 </p>
 <h6>APIs:</h6>
 <p>
-<img src="https://img.shields.io/badge/Telegram-API-30363d?&style=for-the-badge&logo=Telegram&logoColor=white&labelColor=0088cc" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Google-API-30363d?&style=for-the-badge&logo=Google&logoColor=white&labelColor=4285F4" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Facebook-API-30363d?&style=for-the-badge&logo=Facebook&logoColor=white&labelColor=1877F2" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Mailgun-API-30363d?&style=for-the-badge&logo=Mailgun&logoColor=white&labelColor=F06B66" />&nbsp;&nbsp;   
+<img src="https://img.shields.io/badge/Telegram-API-30363d?&style=for-the-badge&logo=Telegram&logoColor=white&labelColor=0088cc" />&nbsp;
+<img src="https://img.shields.io/badge/Google-API-30363d?&style=for-the-badge&logo=Google&logoColor=white&labelColor=4285F4" />&nbsp;
+<img src="https://img.shields.io/badge/Facebook-API-30363d?&style=for-the-badge&logo=Facebook&logoColor=white&labelColor=1877F2" />&nbsp;
+<img src="https://img.shields.io/badge/Mailgun-API-30363d?&style=for-the-badge&logo=Mailgun&logoColor=white&labelColor=F06B66" />&nbsp;
 </p>
 <h6>Payment Systems Integration:</h6>
 <p>
-   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />&nbsp;
+   <img src="https://img.shields.io/badge/LiqPay-9FDB57?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTU3LjQ4bW0iIGhlaWdodD0iMTQwLjc1bW0iIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDU1OCA0OTguNzQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtODEuNjY0IC0yNDAuNjUpIiBmaWxsPSIjZmZmZmZmIj4KPHBhdGggZmlsbD0iI2ZmZmZmZiIgY2xhc3M9InN0MSIgZD0ibTQyNy42NiA0ODkuMDItMjk1LTI0Ny4xYy0yLjItMS44LTUuNC0xLjctNy40IDAuNGwtNDMuNiA0NS40IDI0MC45IDIwMS4zLTI0MC45IDIwMS4zIDQzLjYgNDUuNGMyIDIuMSA1LjIgMi4yIDcuNCAwLjRsMjk1LTI0Ny4xeiIvPgo8cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJtNjM5LjY2IDQ5MS4wMi0yOTUtMjQ3LjFjLTIuMi0xLjgtNS40LTEuNy03LjQgMC40bC00My42IDQ1LjQgMjQwLjkgMjAxLjMtMjQwLjkgMjAxLjMgNDMuNiA0NS40YzIgMi4xIDUuMiAyLjIgNy40IDAuNGwyOTUtMjQ3LjF6Ii8+CjwvZz4KPC9zdmc+Cg==" />&nbsp;&nbsp;
 </p>     
 <h6></h6>
 <p>
-   <img src="https://img.shields.io/badge/phpstorm-30363d?style=for-the-badge&logo=phpstorm&logoColor=white" />&nbsp;&nbsp; 
-   <img src="https://img.shields.io/badge/webstorm-30363d?style=for-the-badge&logo=webstorm&logoColor=white" />&nbsp;&nbsp; 
-   <img src="https://img.shields.io/badge/jira-30363d.svg?style=for-the-badge&logo=jira&logoColor=white" />&nbsp;&nbsp; 
-   <img src="https://img.shields.io/badge/-Swagger-30363d?style=for-the-badge&logo=swagger&logoColor=white" />&nbsp;&nbsp; 
-   <img src="https://img.shields.io/badge/Postman-30363d?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;&nbsp; 
-   <img src="https://img.shields.io/badge/figma-30363d.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-30363d.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/adobe%20photoshop-30363d.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Docker-30363d?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/AWS-30363d.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />&nbsp;&nbsp; 
-   <img src="" />&nbsp;&nbsp; 
-   <img src="" />&nbsp;&nbsp; 
+   <img src="https://img.shields.io/badge/jira-30363d.svg?style=for-the-badge&logo=jira&logoColor=white" />&nbsp;
+   <img src="https://img.shields.io/badge/-Swagger-30363d?style=for-the-badge&logo=swagger&logoColor=white" />&nbsp;&nbsp; 
+   <img src="https://img.shields.io/badge/Postman-30363d?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;
+   <img src="https://img.shields.io/badge/figma-30363d.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp; 
+   <img src="https://img.shields.io/badge/phpstorm-30363d?style=for-the-badge&logo=phpstorm&logoColor=white" />&nbsp;
+   <img src="https://img.shields.io/badge/webstorm-30363d?style=for-the-badge&logo=webstorm&logoColor=white" />&nbsp;
+   <img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-30363d.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" />&nbsp;
+   <img src="https://img.shields.io/badge/adobe%20photoshop-30363d.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Docker-30363d?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Arduino-30363d?style=for-the-badge&logo=Arduino&logoColor=white" />&nbsp;&nbsp; 
 </p>      
-   
 <h4>🌱  I'm currently learning...</h4>
-<p><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
    <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
 <img src="https://github.com/akunopaka/akunopaka/blob/main/img/Stand_with_Ukraine_Footer_h200.jpeg" title="Stand with Ukraine" alt="Stand with Ukraine" />
 <!--
 **akunopaka/akunopaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
