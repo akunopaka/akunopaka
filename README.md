@@ -1,3 +1,5 @@
+
+<img src="https://github.com/akunopaka/akunopaka/blob/main/img/homepage-welcome-akunopaka.png">
 <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Full Stack Web Developer</h3>
 
 <hr>
@@ -60,6 +62,7 @@
 <p>
    <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<img src="https://github.com/akunopaka/akunopaka/blob/main/img/svg/akunopaka-slogans-1.svg">
 <img src="https://github.com/akunopaka/akunopaka/blob/main/img/Stand_with_Ukraine_Footer_h200.jpeg" title="Stand with Ukraine" alt="Stand with Ukraine" />
 <!--
 **akunopaka/akunopaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
