@@ -8,15 +8,15 @@
     
                 <path id='path0'>
                             <!-- Single line -->
-                                <animate id='d0' attributeName='d' begin='0s;d7.end'
+                                <animate id='d0' attributeName='d' begin='0s;d5.end'
                     dur='8000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.5;0.875;1' />
                     </path>
-    <text font-family='"Stencil", monospace' fill='#A371F7' font-size='21'
+    <text font-family='"Stencil", monospace' fill='#FD8C73' font-size='21'
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path0'>
-            &lt; I Build Websites That Stand Out / &gt;
+            &lt; Put Your Trust in My Web Developing Skills / &gt;
         </textPath>
     </text>
         <path id='path1'>
@@ -25,11 +25,11 @@
                     dur='8000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.5;0.875;1' />
                     </path>
-    <text font-family='"Stencil", monospace' fill='#A371F7' font-size='21'
+    <text font-family='"Stencil", monospace' fill='#FD8C73' font-size='21'
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path1'>
-            &lt; Put Your Trust in My Web Developing Skills / &gt;
+            &lt; I Build Websites That Stand Out / &gt;
         </textPath>
     </text>
         <path id='path2'>
@@ -38,7 +38,7 @@
                     dur='8000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.5;0.875;1' />
                     </path>
-    <text font-family='"Stencil", monospace' fill='#A371F7' font-size='21'
+    <text font-family='"Stencil", monospace' fill='#FD8C73' font-size='21'
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path2'>
@@ -51,11 +51,11 @@
                     dur='8000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.5;0.875;1' />
                     </path>
-    <text font-family='"Stencil", monospace' fill='#A371F7' font-size='21'
+    <text font-family='"Stencil", monospace' fill='#FD8C73' font-size='21'
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path3'>
-            &lt; Turn Your Ideas into Reality with Web Development  / &gt;
+            &lt; Harness the Power of the Web / &gt;
         </textPath>
     </text>
         <path id='path4'>
@@ -64,11 +64,11 @@
                     dur='8000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.5;0.875;1' />
                     </path>
-    <text font-family='"Stencil", monospace' fill='#A371F7' font-size='21'
+    <text font-family='"Stencil", monospace' fill='#FD8C73' font-size='21'
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path4'>
-            &lt; Harness the Power of the Web / &gt;
+            &lt; Get Professional Web Development with me / &gt;
         </textPath>
     </text>
         <path id='path5'>
@@ -77,36 +77,10 @@
                     dur='8000ms' fill='remove'
                     values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.5;0.875;1' />
                     </path>
-    <text font-family='"Stencil", monospace' fill='#A371F7' font-size='21'
+    <text font-family='"Stencil", monospace' fill='#FD8C73' font-size='21'
         dominant-baseline='middle'
         x='0%' text-anchor='start'>
         <textPath xlink:href='#path5'>
-            &lt; Get Professional Web Development with me / &gt;
-        </textPath>
-    </text>
-        <path id='path6'>
-                            <!-- Single line -->
-                                <animate id='d6' attributeName='d' begin='d5.end'
-                    dur='8000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.5;0.875;1' />
-                    </path>
-    <text font-family='"Stencil", monospace' fill='#A371F7' font-size='21'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path6'>
-            &lt; Turn Your Ideas into Reality with Web Development / &gt;
-        </textPath>
-    </text>
-        <path id='path7'>
-                            <!-- Single line -->
-                                <animate id='d7' attributeName='d' begin='d6.end'
-                    dur='8000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0' keyTimes='0;0.5;0.875;1' />
-                    </path>
-    <text font-family='"Stencil", monospace' fill='#A371F7' font-size='21'
-        dominant-baseline='middle'
-        x='0%' text-anchor='start'>
-        <textPath xlink:href='#path7'>
             &lt; Let Me Help You Craft the Perfect Website / &gt;
         </textPath>
     </text>
