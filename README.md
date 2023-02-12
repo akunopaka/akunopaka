@@ -1,5 +1,5 @@
 <div>
-<img src="https://github.com/akunopaka/akunopaka/blob/main/img/svg/akunopaka-homepage-welcome.svg">
+<img src="https://github.com/akunopaka/akunopaka/blob/main/img/svg/akunopaka-homepage-hello.svg">
    
 </div>
    <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Full Stack Web Developer</h3>
