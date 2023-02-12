@@ -5,7 +5,7 @@
     style='background-color: #00000000;'
     width='435px' height='50px'>
 
-    
+
                 <path id='path0'>
                             <!-- Single line -->
                                 <animate id='d0' attributeName='d' begin='0s;d5.end'
